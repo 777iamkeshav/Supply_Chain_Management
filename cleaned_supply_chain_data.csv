@@ -1,0 +1,6 @@
+product_type,sku,price,availability,number_of_products_sold,revenue_generated,customer_demographics,stock_levels,lead_times,order_quantities,shipping_times,shipping_carriers,shipping_costs,supplier_name,location,lead_time,production_volumes,manufacturing_lead_time,manufacturing_costs,inspection_results,defect_rates,transportation_modes,routes,costs
+haircare,SKU0,69.80800554,55,802,8661.996792,Non-binary,58,7.0,96,4.0,Carrier B,2.956572139,Supplier 3,Mumbai,29.0,215,29.0,46.27987924,Pending,0.226410361,Road,Route B,187.7520755
+skincare,SKU1,14.84352328,95,736,7460.900065,Female,53,30.0,37,2.0,Carrier A,9.716574771,Supplier 3,Mumbai,23.0,517,30.0,33.61676895,Pending,4.854068026,Road,Route B,503.0655791
+haircare,SKU2,11.31968329,34,8,9577.749626,Unknown,1,10.0,88,2.0,Carrier B,8.054479262,Supplier 1,Mumbai,12.0,971,27.0,30.68801935,Pending,4.580592619,Air,Route C,141.9202818
+skincare,SKU3,61.16334302,68,83,7766.836426,Non-binary,23,13.0,59,6.0,Carrier C,1.729568564,Supplier 5,Kolkata,24.0,937,18.0,35.6247414,Fail,4.746648621,Rail,Route A,254.7761592
+skincare,SKU4,4.805496036,26,871,2686.505152,Non-binary,5,3.0,56,8.0,Carrier A,3.890547916,Supplier 1,Delhi,5.0,414,3.0,92.0651606,Fail,3.145579523,Air,Route A,923.4406317
